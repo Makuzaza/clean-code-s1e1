@@ -30,6 +30,7 @@
   .header { 
     text-align: center;
   }
+}
 
 .task-list__label,
 .add-task__input {
